@@ -1,0 +1,47 @@
+{
+  "name": "cdo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@next-zero/redux": "0.0.2-2",
+    "@reduxjs/toolkit": "^1.6.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "detect-node": "^2.1.0",
+    "dotenv": "^10.0.0",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.21",
+    "next": "10.2.3",
+    "next-images": "^1.8.1",
+    "next-redux-wrapper": "^7.0.2",
+    "react": "^17.0.2",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-dom": "^17.0.2",
+    "react-grecaptcha": "^1.2.5",
+    "react-hook-form": "3.28.15",
+    "react-hook-form-input": "1.1.7",
+    "react-recaptcha-hook": "^1.2.2",
+    "react-redux": "^7.2.4",
+    "reactstrap": "^8.9.0",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.11",
+    "link": "^0.1.5",
+    "npm": "^7.17.0",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1"
+  }
+}
