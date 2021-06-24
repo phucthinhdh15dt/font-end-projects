@@ -5,7 +5,7 @@ https://nodejs.org/en/blog/release/v13.10.1/
 # Step 2 : run project
 
 ```bash
-cd group-one-react
+cd font-end-projects
 ```
 
 ```bash
